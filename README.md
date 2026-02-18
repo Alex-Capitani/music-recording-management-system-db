@@ -6,6 +6,13 @@ Relational database schema for a music recording management system (MySQL) inclu
 Relational database schema for a music recording environment (songs, singers, labels, recordings, people and phone numbers).  
 This repository includes an installation script (schema + sample data) and query exercises.
 
+## Features
+
+- Relational schema design with foreign key constraints
+- Data normalization principles
+- Sample dataset for testing
+- Advanced SQL queries (subqueries, aggregations, NOT EXISTS, DISTINCT)
+
 ## Requirements
 - MySQL 8+ or MariaDB 10+
 - A SQL client: MySQL Workbench / DBeaver / HeidiSQL
