@@ -12,7 +12,7 @@ This repository includes an installation script (schema + sample data) and query
 
 ## Project Files
 - `schema/01_install_schema.sql` → Creates database `musicdb`, tables and sample data (seed)
-- `queries/02_queries.sql` → Query exercises (Query 01..07)
+- `queries/01_queries.sql` → Query exercises (Query 01..07)
 - `diagram/er-diagram.png` → ER diagram
 
 ## Installation (run locally)
