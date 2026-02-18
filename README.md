@@ -29,15 +29,13 @@ From the repository root folder:
 ```bash
 mysql -u root -p < schema/01_install_schema.sql
 
----
-
 ```
 
 ## Running the Queries
 
 After installation, run:
 
-- queries/02_queries.sql
+- queries/01_queries.sql
 
 If your client does not select the database automatically:
 
